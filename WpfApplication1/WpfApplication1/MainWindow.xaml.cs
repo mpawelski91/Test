@@ -29,5 +29,10 @@ namespace WpfApplication1
         {
             //aaa
         }
+
+        public void ccc()
+        {
+
+        }
     }
 }

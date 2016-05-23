@@ -34,5 +34,10 @@ namespace WpfApplication1
         {
 
         }
+
+        public void ddd()
+        {
+
+        }
     }
 }
